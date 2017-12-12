@@ -1,0 +1,22 @@
+{
+    "name": "black",
+    "displayName": "Black",
+    "description": "",
+    "version": "1.0.0",
+    "publisher": "ignore",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/black-color-theme.json"
+            }
+        ]
+    }
+}
