@@ -16,7 +16,7 @@
 		// Text selection
 		"editor.selectionBackground": "#fff",
 
-		// Backgrounds and borders
+		// Backgrounds
 		"editor.background": "#000",
 		"statusBar.background": "#000",
 		"tab.inactiveBackground": "#000",
@@ -27,11 +27,14 @@
 		"editorGroupHeader.tabsBackground": "#000",
 		"activityBarBadge.background": "#000",
 		"activityBar.background": "#000",
+
+		// Borders
 		"editorGroupHeader.tabsBorder": "#000",
 		"tab.activeBorder": "#000",
 		"tab.border": "#000",
 		"sideBar.background": "#000",
-		"sideBar.border": "#222"
+		"sideBar.border": "#222",
+		"editorRuler.foreground": "#222"
 	},
 	"tokenColors": [
 		{
