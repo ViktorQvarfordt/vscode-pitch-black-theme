@@ -2,9 +2,13 @@
   "name": "vscode-pitch-black-theme",
   "displayName": "Pitch Black Theme",
   "version": "1.0.0",
-  "publisher": "Viktor Qvarfordt",
+  "publisher": "viktorqvarfordt",
   "description": "Pitch Black Theme",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ViktorQvarfordt/vscode-pitch-black-theme"
+  },
   "engines": {
     "vscode": "^1.17.0"
   },
