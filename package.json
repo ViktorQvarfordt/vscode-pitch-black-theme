@@ -1,9 +1,10 @@
 {
-  "name": "black",
-  "displayName": "Black",
-  "description": "",
+  "name": "vscode-pitch-black-theme",
+  "displayName": "Pitch Black Theme",
   "version": "1.0.0",
-  "publisher": "ignore",
+  "publisher": "Viktor Qvarfordt",
+  "description": "Pitch Black Theme",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.17.0"
   },
