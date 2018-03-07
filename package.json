@@ -14,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Black",
+        "label": "Pitch Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/black-color-theme.json"
+        "path": "./themes/pitch-black-color-theme.json"
       }
     ]
   }
