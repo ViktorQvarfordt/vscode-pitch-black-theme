@@ -5,36 +5,57 @@
 
 {
   "name": "Pitch Black",
-  "type": "dark",
   "colors": {
-
     // Basic text color
-    "editor.foreground": "#D4D4D4",
-    "sideBarTitle.foreground": "#D4D4D4",
-    "sideBar.foreground": "#D4D4D4",
+    // #d4d4d4 is used rather than #fff because it fits better with the other syntax colors, all of which are taken from the vscode dark plus theme.
+    "editor.foreground": "#d4d4d4",
+    "sideBarTitle.foreground": "#d4d4d4",
+    "sideBar.foreground": "#d4d4d4",
+
+    // Tabs
+    "tab.activeForeground": "#fff",
+    "tab.unfocusedActiveForeground": "#fff",
+    "tab.inactiveForeground": "#ccc",
+    "tab.unfocusedInactiveForeground": "#ccc",
+    "tab.activeBackground": "#000",
+    "tab.unfocusedActiveBorder": "#000",
+    "tab.inactiveBackground": "#000",
+    "tab.activeBorder": "#000",
+    "tab.border": "#000",
+    "editorGroupHeader.tabsBorder": "#000",
 
     // Text selection
     "editor.selectionBackground": "#fff",
+    // "editor.selectionHighlightBackground": "#cc0",
+    "editor.selectionForeground": "#000", // Currently only works in high contrast themes, but making the theme high contrast messes with a lot of other things.
+
+    // Find results
+    "editor.findMatchBackground": "#ff0",
+    "editor.findMatchHighlightBackground": "#aa0",
+
+    // Title bar (requires "window.titleBarStyle": "custom" in settings)
+    "titleBar.activeBackground": "#000",
+    "titleBar.inactiveBackground": "#000",
+    "titleBar.border": "#000",
+    "titleBar.activeForeground": "#ccc",
+    "titleBar.inactiveForeground": "#ccc",
 
     // Backgrounds
     "editor.background": "#000",
     "statusBar.background": "#000",
-    "tab.inactiveBackground": "#000",
-    "tab.activeBackground": "#000",
-    "editorGroup.background": "#000",
+    "editorGroup.emptyBackground": "#000",
     "editorGroup.dropBackground": "#000",
     "editorGroupHeader.noTabsBackground": "#000",
     "editorGroupHeader.tabsBackground": "#000",
     "activityBarBadge.background": "#000",
     "activityBar.background": "#000",
 
-    // Borders
-    "editorGroupHeader.tabsBorder": "#000",
-    "tab.activeBorder": "#000",
-    "tab.border": "#000",
+    // Misc
+    "statusBar.foreground": "#ccc",
     "sideBar.background": "#000",
     "sideBar.border": "#222",
-    "editorRuler.foreground": "#222"
+    "editorRuler.foreground": "#222",
+    "editorGroup.border": "#000",
   },
   "tokenColors": [
     {
@@ -43,7 +64,7 @@
         "source.groovy.embedded"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#d4d4d4"
       }
     },
     {
