@@ -40,6 +40,11 @@
     "titleBar.activeForeground": "#ccc",
     "titleBar.inactiveForeground": "#ccc",
 
+    // Scrollbar
+    "scrollbarSlider.background": "#fff2",
+    "scrollbarSlider.hoverBackground": "#fff3",
+    "scrollbarSlider.activeBackground": "#fff4",
+
     // Backgrounds
     "editor.background": "#000",
     "statusBar.background": "#000",
