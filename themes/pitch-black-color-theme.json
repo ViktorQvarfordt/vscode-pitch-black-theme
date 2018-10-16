@@ -65,6 +65,22 @@
   "tokenColors": [
     {
       "scope": [
+        "punctuation.definition.variable"
+      ],
+      "settings": {
+        "foreground": "#569cd6"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.member"
+      ],
+      "settings": {
+        "foreground": "#DCDCAA"
+      }
+    },
+    {
+      "scope": [
         "meta.embedded",
         "source.groovy.embedded"
       ],
