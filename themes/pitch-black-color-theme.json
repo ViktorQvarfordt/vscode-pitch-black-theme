@@ -65,7 +65,8 @@
   "tokenColors": [
     {
       "scope": [
-        "punctuation.definition.variable"
+        "punctuation.definition.variable",
+        "support.variable.drive"
       ],
       "settings": {
         "foreground": "#569cd6"
