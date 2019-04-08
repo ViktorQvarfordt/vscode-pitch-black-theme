@@ -15,8 +15,8 @@
     // Tabs
     "tab.activeForeground": "#fff",
     "tab.unfocusedActiveForeground": "#fff",
-    "tab.inactiveForeground": "#ccc",
-    "tab.unfocusedInactiveForeground": "#ccc",
+    "tab.inactiveForeground": "#9c9c9c",
+    "tab.unfocusedInactiveForeground": "#9c9c9c",
     "tab.activeBackground": "#000",
     "tab.unfocusedActiveBorder": "#000",
     "tab.inactiveBackground": "#000",
