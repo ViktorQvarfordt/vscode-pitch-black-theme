@@ -25,7 +25,7 @@
     "editorGroupHeader.tabsBorder": "#000",
 
     // Text selection
-    "editor.selectionBackground": "#fff",
+    "editor.selectionBackground": "#add6ff50",
     // "editor.selectionHighlightBackground": "#cc0",
     "editor.selectionForeground": "#000", // Currently only works in high contrast themes, but making the theme high contrast messes with a lot of other things.
 
