@@ -48,6 +48,7 @@
     // Backgrounds
     "editor.background": "#000",
     "statusBar.background": "#000",
+    "statusBar.noFolderBackground": "#000",
     "editorGroup.emptyBackground": "#000",
     "editorGroup.dropBackground": "#000",
     "editorGroupHeader.noTabsBackground": "#000",
