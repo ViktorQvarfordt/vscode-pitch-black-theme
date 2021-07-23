@@ -6,7 +6,7 @@
   
 All backgrounds and unnecessary borders are black. Syntax highlighting colors are taken from the [Dark+](https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_defaults.json) (default) theme. 
 
-![Screenshot](https://raw.githubusercontent.com/TheZoraiz/vscode-pitch-black-theme/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/ViktorQvarfordt/vscode-pitch-black-theme/master/screenshot.png)
   
   
 ## Install and activate  
