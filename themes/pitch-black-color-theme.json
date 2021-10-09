@@ -61,7 +61,7 @@
     "sideBar.background": "#000",
     "sideBar.border": "#222",
     "editorRuler.foreground": "#222",
-    "editorGroup.border": "#000",
+    "editorGroup.border": "#222",
   },
   "tokenColors": [
     {

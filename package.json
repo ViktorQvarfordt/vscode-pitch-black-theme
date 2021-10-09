@@ -3,7 +3,7 @@
 	"displayName": "Pitch Black Theme",
 	"publisher": "viktorqvarfordt",
 	"description": "Pitch Black Theme",
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ViktorQvarfordt/vscode-pitch-black-theme"
@@ -27,5 +27,10 @@
 		"id": "28b20c66-dbb8-4c01-a0f9-590be00ec2d3",
 		"publisherDisplayName": "Viktor Qvarfordt",
 		"publisherId": "53adf0ce-7239-4cba-a1a3-7a8a83aa5fce"
-	}
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  }
 }
