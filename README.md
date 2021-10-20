@@ -24,7 +24,7 @@ Some features cannot be enabled automatically by a color them. So you should con
 
 Open the user settings: Press `Ctrl+Shift+P` (or `Cmd+Shift+P`), select `Preferences: Open Settings (JSON)`. Add this into the settings file:
 
-```json
+```json5
 {
   // Pitch black - Title bar (Allow the title bar to be styled by the color theme)
   "window.titleBarStyle": "custom",
@@ -39,7 +39,7 @@ If you like the theme as it is, you don't need to read this.
 
 This color theme removes many lines and borders by default, if you want you can add them back:
 
-```json
+```json5
 {
   // Optional - Bring back some lines and borders
   "workbench.colorCustomizations": {
@@ -52,7 +52,8 @@ This color theme removes many lines and borders by default, if you want you can 
 ```
 
 If you don't like the text selection and search highlight colors you can configure them:
-```json
+
+```json5
 {
   "workbench.colorCustomizations": {
     // Text selection
