@@ -14,6 +14,7 @@
     "sideBarTitle.foreground": "#d4d4d4",
     "sideBar.foreground": "#d4d4d4",
     "statusBar.foreground": "#ccc",
+    "editorWhitespace.foreground": "#202020",
 
     // Tabs
     "tab.activeForeground": "#fff",
@@ -67,7 +68,7 @@
 
     // Misc lines and rulers
     "editorRuler.foreground": "#222", // Enabled by "editor.rulers": [100],
-    "sideBar.border": "#000",
+    "sideBar.border": "#202020",
     "editorGroup.border": "#000",
     "editorIndentGuide.background": "#000", // Indent lines
     "editorIndentGuide.activeBackground": "#000", // Active indent line
